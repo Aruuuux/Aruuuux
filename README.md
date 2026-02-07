@@ -44,10 +44,5 @@ Passionné par l'**analyse de logiciels malveillants**, je me concentre sur la c
 
 ---
 
-### 📊 Statistiques GitHub
-![Stats de Louis](https://github-readme-stats.vercel.app/api?username=Aruuuux&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 ### 🤝 Me contacter
 - **LinkedIn :** [linkedin.com/in/louis-augey-a66844215](https://www.linkedin.com/in/louis-augey-a66844215)
