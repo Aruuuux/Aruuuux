@@ -8,8 +8,8 @@
 Passionné par l'**analyse de logiciels malveillants**, je me concentre sur la compréhension des mécanismes d'évasion et l'investigation numérique. Mon objectif est de transformer l'analyse technique en solutions de détection concrètes.
 
 ### 🎓 Éducation 
-* <img src="https://upload.wikimedia.org/wikipedia/fr/0/02/Logo_Universit%C3%A9_Sherbrooke.svg" width="20"> [**Université de Sherbrooke**](https://www.usherbrooke.ca/) : Maîtrise en Informatique - Cheminement **Cybersécurité**.
-* <img src="https://www.ensisa.uha.fr/wp-content/uploads/2018/10/logo-ensisa.png" width="40"> [**ENSISA**](https://www.ensisa.uha.fr/) : Diplôme d'Ingénieur en Informatique et Réseaux.
+* 🇨🇦 [**Université de Sherbrooke**](https://www.usherbrooke.ca/) : Maîtrise en Informatique - Cheminement **Cybersécurité**.
+* 🇫🇷 [**ENSISA**](https://www.ensisa.uha.fr/) : Diplôme d'Ingénieur en Informatique et Réseaux.
 
 ### 🗣️ Langues
 * Français 
