@@ -15,32 +15,11 @@ Passionné par l'**analyse de logiciels malveillants**, je me concentre sur la c
 * Français 
 * Anglais (Niveau Professionnel - C1/B2).
 
-### 🏆 Engagement et 🧪 Recherche
-- Participation active aux CTF (**3ème au Rhintec**, HackFest, @Hack 2026) et veille technologique (InCyber Montréal 2025).
-- Développement d'un laboratoire d'analyse de malwares isolé.
-
----
-
-### 🛠️ Compétences Techniques
-
-| Analyse de Malware | Systèmes & Infra | Programmation |
-| :--- | :--- | :--- |
-| **Outils :** PEstudio, Process Hacker 2, Regshot | **Windows Server :** Active Directory (GPO, DNS) | **Scripting :** Python, Bash |
-| **Réseau :** Wireshark, Analyse de flux C2 | **Virtualisation :** VMware, VirtualBox, Docker | **Dev :** C/C++, Java, SQL |
-| **Frameworks :** MITRE ATT&CK Mapping | **OS :** Linux (Ubuntu/Kali), Windows, MacOS | **Automation :** EzWoL Wrapper |
-
----
 
 ### 🦠 Projets & Labo Personnel
 
 #### 📂 [Malware Analysis Lab](https://github.com/Aruuuux/Malware-Analysis-Lab)
 *Analyses techniques approfondies d'échantillons réels.*
-- **RedLine Stealer :** Analyse dynamique, monitoring du registre et identification des vecteurs d'exfiltration.
-- **AsyncRAT Loader :** Étude de l'obfuscation par entropie (7.98) et analyse de charge utile en overlay.
-
-
-#### 🛠️ EzWoL
-- Création d'un wrapper Bash pour l'automatisation du réveil de machines à distance (Wake-on-LAN).
 
 ---
 
